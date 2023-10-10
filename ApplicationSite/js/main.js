@@ -1,4 +1,4 @@
-﻿//Store the nine sliders
+//Store the nine sliders
 var sliderOne = document.getElementById("s1");
 var sliderTwo = document.getElementById("s2");
 var sliderThree = document.getElementById("s3");
